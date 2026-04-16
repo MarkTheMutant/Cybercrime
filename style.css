@@ -1,0 +1,30 @@
+body {
+    background: black;
+    color: #00ff66;
+    font-family: monospace;
+    padding: 20px;
+  }
+  
+  button {
+    margin: 5px;
+    background: black;
+    color: #00ff66;
+    border: 1px solid #00ff66;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  li {
+    border: 1px solid #00ff66;
+    margin: 10px 0;
+    padding: 10px;
+  }
+  
+  a {
+    color: #00ff66;
+    text-decoration: none;
+  }
+  
+  .CRITICAL { color: red; }
+  .HIGH { color: orange; }
+  .MEDIUM { color: yellow; }
